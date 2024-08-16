@@ -26,9 +26,16 @@ cd weather-app
   + Replace the placeholder 'Your_OpenWeatherMap_API_Key' in the script.js file with your actual API key.
 5. **Run the app :**
   + Open index.html in your preferred web browser.
-6. **Usage**
+6. **Usage :**
   + Enter the name of a city in the search input field.
     ![Screenshot (67)](https://github.com/user-attachments/assets/38333569-5ce1-42d9-861e-9412baee6bb5)
+  + Click the search button or press "Enter" to fetch the weather details.
+    ![Screenshot (68)](https://github.com/user-attachments/assets/b51fefea-1538-4e78-89fd-0c604ab87322)
+  + View the weather details displayed below the search bar, including temperature, weather type, and other information.
+    ![Screenshot (69)](https://github.com/user-attachments/assets/aa738e7b-9ff9-4e75-a711-4c7e7ae37968)
+# **Contributing**
+  Feel free to fork the repository and submit pull requests. Any contributions, whether bug fixes, new features, or improvements, are welcome!
+
 
 
 
